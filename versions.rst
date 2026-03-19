@@ -1,4 +1,4 @@
-.. _versions:
+cool.. _versions:
 .. _branchstatus:
 
 =========================
